@@ -56,6 +56,7 @@ modul: {
     yt: require('youtube-yts'),
     ytdl: require('ytdl-core'),
     webp: require('node-webpmux')
+    movie: require('movie-dl')
 
 }
 }
